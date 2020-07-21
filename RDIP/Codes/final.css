@@ -1,0 +1,20 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700,500,600);
+body {
+    overflow-x: hidden;
+    font-family: 'Raleway' !important;
+    min-height: 20%;
+background-color: -internal-light-dark-color(rgb(255, 255, 255), rgb(59, 59, 59));
+}
+html {
+    height: 20%;
+}
+
+.btn {
+    display: inline-block;
+    margin: 3px;
+}
+
+.sen3 {
+    text-align: center;
+    text-size-adjust: center;
+}
